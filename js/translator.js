@@ -2192,7 +2192,7 @@ function translate() {
             }
         });
         Object.keys(bingoListEN).forEach(key => {
-            if (bingoListEN[key]["Desc"] === text) {
+            if (bingoListEN[key]["Desc"] === textElement.textContent) {
                 textElement.textContent = bingoListJP[key]["Desc"];
                 return;
             }
