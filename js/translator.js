@@ -2185,8 +2185,8 @@ function translate() {
 
     for (i = 1; i <= 25; i++) {
         var textElement = document.getElementById("slot" + i).getElementsByClassName('text-container')[0];
-        Object.keys(bingoListJP).forEach(key => {
-            if (bingoListJP[key]["Desc"] === textElement.textContent) {
+        Object.keys(bingoListEN).forEach(key => {
+            if (bingoListEN[key]["Desc"] === textElement.textContent) {
                 textElement.textContent = bingoListJP[key]["Desc"];
             }
         });
