@@ -225,7 +225,7 @@ function translate() {
         },
 
         "CrystalCrawler": {
-            "Desc": "Check the Crystal Crawler Journal Entry"
+            "Desc": "Crystal Crawler Journal Entry"
         },
 
         "Devout": {
@@ -276,7 +276,7 @@ function translate() {
         },
 
         "Mimics": {
-            "Desc": "Check/Kill 4 Mimics"
+            "Desc": "Kill 4 Mimics"
         },
 
         "Myla": {
@@ -360,7 +360,7 @@ function translate() {
         },
 
         "FCharms": {
-            "Desc": "Obtain all three Fragile charms",
+            "Desc": "Obtain two Unbreakable charms",
             "Score": 1.00
         },
 
@@ -840,7 +840,7 @@ function translate() {
         },
 
         "DefenderSign": {
-            "Desc": "Check/Read the Dung Defender sign before Isma's Grove"
+            "Desc": "Read the Dung Defender sign before Isma's Grove"
         },
 
         "DirtmouthElevator": {
@@ -865,11 +865,11 @@ function translate() {
         },
 
         "GoamGarpede": {
-            "Desc": "Check the Goam and Garpede Journal Entries"
+            "Desc": "Goam and Garpede Journal Entries"
         },
 
         "Jiji": {
-            "Desc": "Open Jiji's Hut and buy out Jiji"
+            "Desc": "Open Jiji's Hut"
         },
 
         "HopperHell": {
@@ -894,45 +894,45 @@ function translate() {
         },
 
         "LoreArchives": {
-            "Desc": "Check/Read 3 lore tablets in Teacher's Archives"
+            "Desc": "Read 3 lore tablets in Teacher's Archives"
         },
 
         "LoreBasin": {
-            "Desc": "Check/Read the lore tablet in Ancient Basin"
+            "Desc": "Read the lore tablet in Ancient Basin"
         },
 
         "LoreCity": {
-            "Desc": "Check/Read two lore tablets in City of Tears proper (No sub areas)"
+            "Desc": "Read two lore tablets in City of Tears proper (No sub areas)"
         },
 
         "LoreCliffs": {
-            "Desc": "Check/Read the lore tablet in Howling Cliffs"
+            "Desc": "Read the lore tablet in Howling Cliffs"
         },
 
 
         "LoreGreenpath": {
-            "Desc": "Check/Read three lore tablets in Greenpath"
+            "Desc": "Read three lore tablets in Greenpath"
         },
 
         "LoreKEdge": {
-            "Desc": "Check/Read the lore tablet in Kingdom's Edge (requires Spore Shroom)",
+            "Desc": "Read the lore tablet in Kingdom's Edge (requires Spore Shroom)",
             "Score": 1.30
         },
 
         "LorePilgrims": {
-            "Desc": "Check/Read both Pilgrim's Way lore tablets"
+            "Desc": "Read both Pilgrim's Way lore tablets"
         },
 
         "LoreSanctum": {
-            "Desc": "Check/Read both lore tablets in Soul Sanctum"
+            "Desc": "Read both lore tablets in Soul Sanctum"
         },
 
         "LoreVillage": {
-            "Desc": "Check/Read both lore tablets in Mantis Village"
+            "Desc": "Read both lore tablets in Mantis Village"
         },
 
         "Lumafly": {
-            "Desc": "Check the Charged Lumafly Journal Entry"
+            "Desc": "Charged Lumafly Journal Entry"
         },
 
         "MaskMaker": {
@@ -1028,7 +1028,7 @@ function translate() {
         },
 
         "Tendrils": {
-            "Desc": "Check the Void Tendrils Journal Entry"
+            "Desc": "Void Tendrils Journal Entry"
         },
 
         "Tiso": {
