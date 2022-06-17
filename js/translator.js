@@ -1317,7 +1317,7 @@ function translate() {
         },
 
         "CrystalCrawler": {
-            "Desc": "スイショウズリズリを倒す"
+            "Desc": "狩猟者の書にスイショウズリズリを登録する"
         },
 
         "Devout": {
@@ -1368,7 +1368,7 @@ function translate() {
         },
 
         "Mimics": {
-            "Desc": "幼虫モドキの場所を4か所チェックする"
+            "Desc": "幼虫モドキを4体倒す"
         },
 
         "Myla": {
@@ -1452,7 +1452,7 @@ function translate() {
         },
 
         "FCharms": {
-            "Desc": "繊細なチャームを3つ全て入手する",
+            "Desc": "壊れぬチャームを2つ入手する",
             "Score": 1.00
         },
 
@@ -1932,7 +1932,7 @@ function translate() {
         },
 
         "DefenderSign": {
-            "Desc": "イズマの森の手前のフンコロ騎士の看板をチェックする"
+            "Desc": "イズマの森の手前のフンコロ騎士の看板を読む"
         },
 
         "DirtmouthElevator": {
