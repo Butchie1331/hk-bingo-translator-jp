@@ -2185,15 +2185,15 @@ function translate() {
 
     for (i = 1; i <= 25; i++) {
         var textElement = document.getElementById("slot" + i).getElementsByClassName('text-container')[0];
-        bingoListJP.forEach(jp, i => {
-            if (jp["Desc"] === textElement.textContent) {
-                textElement.textContent = bingoListEN[i]["Desc"];
+        Object.keys(bingoListJP).forEach(key => {
+            if (bingoListJP[key]["Desc"] === textElement.textContent) {
+                textElement.textContent = bingoListEN[key]["Desc"];
                 return;
             }
         });
-        bingoListEN.forEach(en, i => {
-            if (en["Desc"] === text) {
-                textElement.textContent = bingoListJP[i]["Desc"];
+        Object.keys(bingoListEN).forEach(key => {
+            if (bingoListEN[key]["Desc"] === text) {
+                textElement.textContent = bingoListJP[key]["Desc"];
                 return;
             }
         });
