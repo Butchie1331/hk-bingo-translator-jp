@@ -1,6 +1,6 @@
 # Hollow Knight Bingo Translator JP
 
-Translator for Hollow Knight Item Randomizer Bingo from/to Japanese.
+Translator for Hollow Knight Item Randomizer Bingo to Japanese.
 
 ## Usage
 

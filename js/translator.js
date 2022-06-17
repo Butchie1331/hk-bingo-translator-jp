@@ -2187,14 +2187,7 @@ function translate() {
         var textElement = document.getElementById("slot" + i).getElementsByClassName('text-container')[0];
         Object.keys(bingoListJP).forEach(key => {
             if (bingoListJP[key]["Desc"] === textElement.textContent) {
-                textElement.textContent = bingoListEN[key]["Desc"];
-                return;
-            }
-        });
-        Object.keys(bingoListEN).forEach(key => {
-            if (bingoListEN[key]["Desc"] === textElement.textContent) {
                 textElement.textContent = bingoListJP[key]["Desc"];
-                return;
             }
         });
     }
