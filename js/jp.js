@@ -1,6 +1,6 @@
 // bingoGenerator = require("./generators/generator_bases/synerGen.js");
 
-var bingoList = {
+export var bingoListJP = {
 //   "bingoTypes": {
 //     "Tiebreaker": {"Max": 1}
 //   },
