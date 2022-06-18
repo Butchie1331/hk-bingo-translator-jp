@@ -2191,6 +2191,7 @@ function translate() {
             }
         });
     }
+    window.dispatchEvent(new Event("resize"));
 };
 
 translate();
