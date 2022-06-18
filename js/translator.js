@@ -1957,7 +1957,7 @@ function translate() {
         },
 
         "GoamGarpede": {
-            "Desc": "ゴームとガーピードを狩猟者の書に登録する場所をチェックする"
+            "Desc": "狩猟者の書にゴームとガーピードを登録する"
         },
 
         "Jiji": {
@@ -2024,7 +2024,7 @@ function translate() {
         },
 
         "Lumafly": {
-            "Desc": "デンゲキルマバエを狩猟者の書に登録する場所をチェックする"
+            "Desc": "狩猟者の書にデンゲキルマバエを登録する"
         },
 
         "MaskMaker": {
@@ -2120,7 +2120,7 @@ function translate() {
         },
 
         "Tendrils": {
-            "Desc": "虚無の触手を狩猟者の書に登録する場所をチェックする"
+            "Desc": "狩猟者の書に虚無の触手を登録する"
         },
 
         "Tiso": {
